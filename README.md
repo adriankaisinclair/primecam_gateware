@@ -3,11 +3,10 @@ Compiled design files for the Prime-Cam instrument's RFSoC based readout for kin
 
 The Jupyter notebook contains the essential functionality to control the gateware compiled gatware. A more advanced version of the software to be deployed with Prime-Cam can be found at https://github.com/TheJabur/CCATpHive     
 
-This design utilizes a custom compiled PYNQ v2.6 image. Contact adriansinclair@phas.ubc.ca for the image.
+This design utilizes a custom compiled PYNQ v3.0.1 image. Contact me for the image.
 
 Repository table of contents:
 1. tetra_vx.ipynb - Jupyter notebook which runs gateware and contains essential software functions
-2. tetra_vxpy.bit - Compiled gateware bitstream 
-3. tetra_vxpy.hwh - Hardware handoff file for bitstream  
+2. tetra_vxpy.xsa - Compiled gateware bitstream 
 
-Adrian Sinclair 2022
+Adrian Sinclair 2024
